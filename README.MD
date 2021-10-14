@@ -1,8 +1,6 @@
 *THIS PROJECT IS BASED ON PYGAME* 
 The game is made with only Python language
 -----------------------------------------------------------------------------------
-Installation - 
------------------------------------------------------------------------------------
 ## Setup
 python3 -m pip install pygame <<<(mac)>>>
 or
