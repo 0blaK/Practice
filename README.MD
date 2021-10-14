@@ -1,6 +1,9 @@
 -----------------------------------------------------------------------------------
 ## PyGame Setup
 *THIS PROJECT IS BASED ON PYGAME / Python*
+
+
+
 python3 -m pip install pygame <<<(mac)>>>
 or
 python -m pip install pygame <<<(windows)>>>
