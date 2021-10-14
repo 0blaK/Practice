@@ -1,9 +1,5 @@
 ![Screenshot 2021-10-14 at 14 58 20](https://user-images.githubusercontent.com/92526205/137327353-143a2da9-04e5-4031-b6ec-91f869343912.png)
 
-
-## Game Preview 
-
-
 *THIS PROJECT IS BASED ON PYGAME* 
 The game is made with only Python language
 -----------------------------------------------------------------------------------
@@ -36,3 +32,8 @@ Python is a high skilled language that really can learn you alot. Python is spec
 Yeah, that's it.
 Bye, bye :)
 -----------------------------------------------------------------------------------
+
+## In-Game preview
+
+
+![Screenshot 2021-10-14 at 14 58 20](https://user-images.githubusercontent.com/92526205/137327353-143a2da9-04e5-4031-b6ec-91f869343912.png)
