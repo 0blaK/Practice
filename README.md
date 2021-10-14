@@ -1,0 +1,2 @@
+# Practice
+Hello everyone, I made this project for my practice week.  In Sweden we call it *PRAO*. If i tell you shorty then this week includes that you are supposed to work as all grown people do. Prao is not really based on who are you going to be in future, but my plan was to be a programmer. So, I got my best chance and got a PRAO job as a programmer. So yeah, this is my project that I made in first days (Its not fully done) this is the process and of course it needs fixes etc.   
